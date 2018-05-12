@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2603
     wikipedia: http://en.wikipedia.org/wiki/Gilbert_Cannan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43423#Old-MoleThrigsby-Grammar-School-in-the-County-of-Lancaster
 gutenberg_issued: '2013-08-08'
 gutenberg_type: Text
 identifiers:
