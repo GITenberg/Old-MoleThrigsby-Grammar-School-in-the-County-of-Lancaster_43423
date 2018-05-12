@@ -1,0 +1,32 @@
+_repo: Old-MoleThrigsby-Grammar-School-in-the-County-of-Lancaster_43423
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43423-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Cannan, Gilbert
+    birthdate: 1884
+    deathdate: 1955
+    gutenberg_agent_id: '2603'
+    url: http://www.gutenberg.org/2009/agents/2603
+    wikipedia: http://en.wikipedia.org/wiki/Gilbert_Cannan
+description: ''
+gutenberg_issued: '2013-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43423'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Husband and wife -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Theater -- Fiction'
+- !lcc 'PR'
+title: "Old Mole\r\nBeing the Surprising Adventures in England of Herbert Jocelyn\
+  \ Beenham, M.A., Sometime Sixth-Form Master at Thrigsby Grammar School in the County\
+  \ of Lancaster"
+url: http://www.gutenberg.org/ebooks/43423
